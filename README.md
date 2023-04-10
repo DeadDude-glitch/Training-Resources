@@ -7,7 +7,7 @@ every resource found necessary to read/use during our internship at coordinates
 * article: [user-based MFA vs CA MFA](https://messageops.com/user-based-mfa-vs-conditional-access-mfa/)
 * [azure AD block legacy authentication with CA](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication)
 * [login error codes](https://login.microsoftonline.com/error)
-* [video: IR event log analysis](https://youtu.be/Xw536W7kbDQ)
+* video: [IR event log analysis](https://youtu.be/Xw536W7kbDQ)
 * [SIEM solutions crash course](https://app.letsdefend.io/training/lessons/siem-101)
 * Documentaion: [fortigate logs](https://docs.fortinet.com/document/fortigate/7.2.4/fortios-log-message-reference/524940/introduction)
 * [Anti-Virus vs EDR](https://thinkadnet.com/2021/03/edr-vs-antivirus-whats-the-difference/)
