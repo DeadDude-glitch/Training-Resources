@@ -15,3 +15,4 @@ every resource found necessary to read/use during our internship at coordinates
 * Documentaion: [mimecast logs](https://integrations.mimecast.com/documentation/tutorials/understanding-siem-logs/)
 * Documentation: [Palo Alto logs](https://docs.paloaltonetworks.com/pan-os/9-1/pan-os-admin/monitoring/view-and-manage-logs/log-types-and-severity-levels)
 * Video: [IPsec site-2-site tunnels](https://www.youtube.com/watch?v=CuxyZiSCSfc)
+* Documentation: [sonicwall firewall log](https://www.sonicwall.com/techdocs/pdf/sonicos-6-5-4-log-events-reference-guide.pdf)
