@@ -9,7 +9,7 @@ every resource found necessary to read/use during our internship at coordinates
 * [login error codes](https://login.microsoftonline.com/error)
 * Video: [IR event log analysis](https://youtu.be/Xw536W7kbDQ)
 * [SIEM solutions crash course](https://app.letsdefend.io/training/lessons/siem-101)
-* Documentaion: [fortigate logs](https://docs.fortinet.com/document/fortigate/7.2.4/fortios-log-message-reference/524940/introduction)
+* Documentaion: [FortiGate Logs](https://docs.fortinet.com/document/fortigate/7.2.4/fortios-log-message-reference/524940/introduction)
 * [Anti-Virus vs EDR](https://thinkadnet.com/2021/03/edr-vs-antivirus-whats-the-difference/)
 * [IPsec protocol](https://www.cloudflare.com/learning/network-layer/what-is-ipsec/)
 * Documentaion: [mimecast logs](https://integrations.mimecast.com/documentation/tutorials/understanding-siem-logs/)
