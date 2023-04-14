@@ -1,12 +1,12 @@
 # Training-Resources
 every resource found necessary to read/use during our internship at coordinates
-* [mitre attack tactics](https://attack.mitre.org/tactics/enterprise/)
-* [windows security log events](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)
+* [Mitre Attack Tactics](https://attack.mitre.org/tactics/enterprise/)
+* [Windows Security Log Events](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)
 * Article: [windows logs don't make sense](https://medium.com/@tareq.alkhatib/its-not-you-windows-security-logs-don-t-make-sense-4e421a0bbd0)
 * [sharepoint & onedrive unmanaged device access controls](https://learn.microsoft.com/en-us/sharepoint/control-access-from-unmanaged-devices)
 * Article: [user-based MFA vs CA MFA](https://messageops.com/user-based-mfa-vs-conditional-access-mfa/)
-* [azure AD block legacy authentication with CA](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication)
-* [login error codes](https://login.microsoftonline.com/error)
+* [Azure AD block legacy authentication with conditional Access](https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/block-legacy-authentication)
+* [Microsoft Login Error Codes](https://login.microsoftonline.com/error)
 * Video: [IR event log analysis](https://youtu.be/Xw536W7kbDQ)
 * [SIEM solutions crash course](https://app.letsdefend.io/training/lessons/siem-101)
 * Documentaion: [FortiGate Logs](https://docs.fortinet.com/document/fortigate/7.2.4/fortios-log-message-reference/524940/introduction)
