@@ -18,6 +18,7 @@ every resource found necessary to read/use during our internship at coordinates
 * Documentation: [sonicwall firewall log](https://www.sonicwall.com/techdocs/pdf/sonicos-6-5-4-log-events-reference-guide.pdf)
 * Video: [Email Header Analysis and Forensics](https://www.youtube.com/watch?v=nK5QpGSBR8c)
 * [What is SPF?](https://en.wikipedia.org/wiki/Sender_Policy_Framework)
+* [SPF syntax](https://powerdmarc.com/spf-record-syntax)
 * Article: [SPF hard fail vs soft fail](https://knowledge.ondmarc.redsift.com/en/articles/1148885-spf-hard-fail-vs-spf-soft-fail)
 * [multiple email security using arc-authentication](https://en.wikipedia.org/wiki/Authenticated_Received_Chain)
 * Documentation: [Office 365 logs](https://learn.microsoft.com/en-us/office/office-365-management-api/office-365-management-activity-api-schema)
