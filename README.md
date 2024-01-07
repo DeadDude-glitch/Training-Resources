@@ -1,5 +1,5 @@
 # Training-Resources
-every resource found necessary to read/use during our internship at coordinates
+every resource found necessary to read/use during our training phase at coordinates
 * [Mitre Attack Tactics](https://attack.mitre.org/tactics/enterprise/)
 * [Windows Security Log Events](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)
 * Article: [windows logs don't make sense](https://medium.com/@tareq.alkhatib/its-not-you-windows-security-logs-don-t-make-sense-4e421a0bbd0)
