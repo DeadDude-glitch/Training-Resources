@@ -23,3 +23,5 @@ every resource found necessary to read/use during our training phase at coordina
 * [multiple email security using arc-authentication](https://en.wikipedia.org/wiki/Authenticated_Received_Chain)
 * Documentation: [Office 365 logs](https://learn.microsoft.com/en-us/office/office-365-management-api/office-365-management-activity-api-schema)
 * Documentation: [ATP Mail Blocking Detection technologies](https://learn.microsoft.com/en-us/microsoft-365/security/office-365-security/reports-email-security?view=o365-worldwide)
+* Documentation: [LogRhythm Search Syntax](https://docs.logrhythm.com/lrsiem/7.13.0/lucene-search-syntax)
+* Documentation: [FortiSIEM](https://help.fortinet.com/fsiem/7-1-1/Online-Help/HTML5/Home.htm)
